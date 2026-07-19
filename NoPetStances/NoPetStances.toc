@@ -1,8 +1,0 @@
-## Interface: 20506
-## Title: No Pet Stances
-## Notes: Hides the Aggressive/Defensive/Passive pet buttons on the pet action bar. All other pet ability buttons remain untouched.
-## IconTexture: Interface\Icons\ability_seal
-## Author: Alataria
-## Version: 1.0
-
-NoPetStances.lua
